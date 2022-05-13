@@ -25,7 +25,7 @@
 [spawning]
 	#Controls Chocobo Spawn Weight [Default: 10]
 	#Range: > 0
-	chocoboSpawnWeight = 10
+	chocoboSpawnWeight = 2
 	#Controls Chocobo Pack Size Min [Default: 1]
 	#Range: > 0
 	chocoboPackSizeMin = 1
